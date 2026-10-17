@@ -1,0 +1,5 @@
+101|Laptop|Computers|12|899.99
+102|Mouse|Accessories|40|14.50
+103|Keyboard|Accessories|3|29.90
+104|Monitor|Computers|7|159.00
+105|USB Cable|Accessories|60|4.99
